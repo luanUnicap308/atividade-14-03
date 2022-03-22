@@ -4,7 +4,6 @@ const App = () => {
 
   const [idadeAtual, setIdadeAtual] = useState(0);
   const [anoNascido, setAnoNascido] = useState(0);
-  const [isClear, setIsClear] = useState(false);
   const [isChecked, setIsChecked] = useState(false);
   const [isDisabled, setIsDisabled] = useState(false)
 
