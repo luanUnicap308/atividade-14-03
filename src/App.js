@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div>
       <div>
-        <h1>Caucule o ano que você naceu !</h1>
+        <h1>Calcule o ano que você naceu !</h1>
         <div>
           <p>digite sua idade</p>
           <input type='number' disabled={isDisabled} value={idadeAtual} onChange={handlesIdadeAtual} />
